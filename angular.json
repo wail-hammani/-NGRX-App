@@ -28,9 +28,9 @@
               "src/assets"
             ],
             "styles": [
-              "../NGRX-Products/node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss",
-              "../NGRX-Products/node_modules/@fortawesome/fontawesome-free/scss/brands.scss",
-              "../NGRX-Products/node_modules/@fortawesome/fontawesome-free/scss/solid.scss",
+              "./node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss",
+              "./node_modules/@fortawesome/fontawesome-free/scss/brands.scss",
+              "./node_modules/@fortawesome/fontawesome-free/scss/solid.scss",
               "src/styles.scss"
             ],
             "scripts": []
